@@ -22,7 +22,7 @@ Drop the given folder into the ***esx*** folder and start it in the ***server.cf
 **Showcase**
 
 Menu
-![Menu](https://i.imgur.com/oeWblSL.png)
+![menu](hitta-tracker/html/menu.png)
 
 Adding to tracker:
 https://gyazo.com/6f30de6c3f65faef336aaca602e8a3a7
